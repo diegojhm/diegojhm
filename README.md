@@ -1,6 +1,10 @@
 ## Diego Jesus - UCSP
 
+20252-CCOMP2-1
+[20252-CCOMP2-1 (Publico)](https://github.com/diegojhm/20252-CCOMP2-1.git)
 
+20252-CCOMP2-2
+[20252-CCOMP2-2 (Publico)](https://github.com/diegojhm/20252-CCOMP2-2.git)
 
 <!--
 **diegojhm/diegojhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
